@@ -1,3 +1,3 @@
 # Ansible-training
 
-Tutorials for Ansible
+Tutorials for Ansible Training
